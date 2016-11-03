@@ -1,0 +1,8 @@
+//TextView
+<TextView
+    android:text="Hey! Where the hell were you? I have been waiting for you all day long!! "
+    android:background="#64DD17"
+    android:textColor="#0091EA"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:textAppearanceLarge"/>
